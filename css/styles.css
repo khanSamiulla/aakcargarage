@@ -11,6 +11,7 @@
 }
 .main-heading{
     font-size: 60px;
+    color: #ffbf01;
 }
 
 .bold{
@@ -198,7 +199,7 @@ footer{
 .owl-carousel .owl-nav button span{
     font-size: 40px;
     color: #07508c;
-    padding: 0 30px;
+    /* padding: 0 30px; */
 }
 
 .promotions-image-block{
